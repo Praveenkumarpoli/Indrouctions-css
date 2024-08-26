@@ -1,0 +1,82 @@
+.P,.R{
+    color:red
+  }
+  p{
+    color:darkcyan
+}
+#d{
+  color:darkorange;
+  font-size: 15px;
+}
+#g{
+  font-size: 15px;
+}
+#a{
+    color:purple;
+    font-size: 15px;
+}
+#b{
+  color:indianred;
+  font-size: 15px;
+}
+#c{
+  color:cornflowerblue
+}
+#e{
+  background-color: black;
+  color:aqua
+}
+.O{
+    color:brown
+}
+.B{
+  color:blue
+}
+.J{
+  color:chartreuse
+}
+.E{
+  color:blueviolet
+}
+.C{
+  color:aqua
+}
+.T{
+  color:chocolate
+}
+.I{
+  color:cornflowerblue
+}
+.V{
+  color:deeppink
+}
+.P,.R{
+  color:red
+}
+.S{
+  color:saddlebrown
+}
+.U{
+  color:indigo
+}
+.M{
+  color:yellowgreen
+}
+.N{
+  color:yellow
+}
+.L,.D{
+  color:burlywood
+}
+.H{
+  color:purple
+}
+.A,.K{
+  color:darkslategrey
+}
+.Y{
+  color:gold
+}
+h3,h1{
+  background-color:lightseagreen
+}
